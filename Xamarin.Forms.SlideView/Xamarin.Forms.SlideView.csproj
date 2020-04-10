@@ -12,6 +12,7 @@
     <PackageTags>Slide, Sliding, View, Pane, Slide View, Sliding View, Dual View, Dual Pane, Xamarin, Xamarin.Forms</PackageTags>
     <Title>Xamarin.Forms.SlideView</Title>
     <PackageId>Xamarin.Forms.SlideView</PackageId>
+    <PackageProjectUrl>https://github.com/Tommigun1980/Xamarin.Forms.SlideView</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">

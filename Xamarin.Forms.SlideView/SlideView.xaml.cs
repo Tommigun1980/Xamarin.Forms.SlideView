@@ -111,6 +111,8 @@ namespace Xamarin.Forms.SlideView
 
             this.dualPaneGrid.Children.Add(pane, destination == SlideViewPanePriority.Pane0 ? 0 : 1, 0);
 
+            BindableObject.SetInheritedBindingContext(pane, this.BindingContext);
+
             this.DoLayout(true);
         }
 

@@ -3,6 +3,8 @@
 
 ![SlideView](Doc/SlideView.gif)
 
+NuGet package available at https://www.nuget.org/packages/Xamarin.Forms.SlideView/
+
 ## Usage
 
 Import the SlideView assembly:
